@@ -1,0 +1,15 @@
+baseURL: "https://akshayk1204.github.io/techblogs/"
+title: "Cloud Security Blog"
+theme: "PaperMod"
+publishDir: "docs"
+
+params:
+  defaultTheme: "light"
+  ShowReadingTime: true
+  ShowBreadcrumbs: true
+
+menu:
+  main:
+    - name: "Posts"
+      url: "/posts/"
+      weight: 10
