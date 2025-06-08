@@ -1,4 +1,6 @@
 baseURL: "https://akshayk1204.github.io/techblogs/"
+canonifyURLs: true
+relativeURLs: false
 title: "Cloud Security Blog"
 theme: "PaperMod"
 publishDir: "docs"
